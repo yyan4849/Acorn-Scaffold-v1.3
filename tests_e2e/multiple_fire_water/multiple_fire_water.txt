@@ -1,0 +1,1 @@
+Multiple fire and water cells test succeed!
